@@ -2,7 +2,7 @@
 #include <iomanip>
 #include <cstdlib>
 #include "date.h"
-#include "algorithm.h"
+#include "algorithm.h"#include "algorithm.h"#include "algorithm.h"
 
 
 using namespace std;
